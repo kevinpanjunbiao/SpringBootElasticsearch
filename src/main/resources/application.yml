@@ -1,0 +1,5 @@
+# Elasticsearch配置
+elasticsearch:
+  hostname: 127.0.0.1
+  port: 9200
+  scheme: http
